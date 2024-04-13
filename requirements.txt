@@ -6,3 +6,5 @@ yahoofinancials
 yfinance 
 streamlit
 matplotlib
+openpyxl
+scikit-learn
